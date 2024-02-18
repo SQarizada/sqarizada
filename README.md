@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Football (soccer) match winners with Machine Learning and Python<br>🌱 I’m currently learning AWS and hoping to get my Developer Associate Certification <br>💬 Ask me about the gym!<br>⚡ Fun fact: I love to work out and I play video games in my free time. 
+🔭 I’m currently working on a predictor for football (soccer) match winners with Machine Learning and Python<br>🌱 I’m currently learning AWS and hoping to get my Developer Associate Certification <br>💬 Ask me about the gym!<br>⚡ Fun fact: I love to work out and I play video games in my free time. 
 
 
 ## 🌐 Socials:
